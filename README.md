@@ -39,7 +39,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/sanjay_codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/sanjay_codez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sanjaykumardasown/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/sanjaykumardasown/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjaykumardasp1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerrank.com/sanjaykumardasp1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sanjaykumardasprivate/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/sanjaykumardasprivate/practice/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sanjaykumardasprivate/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/sanjaykumardasprivate/todo-done/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/Sanjay_Codez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="https://www.topcoder.com/members/Sanjay_Codez" height="30" width="40" /></a>
 </p>
 
