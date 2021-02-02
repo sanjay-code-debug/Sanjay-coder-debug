@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/sanjay-coder-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/sanjay-coder-debug" height="30" width="40" /></a>
+<a href="https://codepen.io/sanjay-coder-debug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/sanjay-coder-debug" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/sanjaycoderdebug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/sanjaycoderdebug" height="30" width="40" /></a>
 <a href="https://twitter.com/@sanjayk07468653" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@sanjayk07468653" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjay-kumar-das-2b7b3b205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanjay-kumar-das-2b7b3b205/" height="30" width="40" /></a>
