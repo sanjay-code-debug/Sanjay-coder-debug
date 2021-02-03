@@ -1,19 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumar Das</h1>
-<svg height="130" width="500">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"
-      style="stop-color:rgb(255,255,0);stop-opacity:1" />
-      <stop offset="100%"
-      style="stop-color:rgb(255,0,0);stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <ellipse cx="100" cy="70" rx="85" ry="55" fill="url(#grad1)" />
-  <text fill="#ffffff" font-size="45" font-family="Verdana"
-  x="50" y="86">Sanjay-coder-debug</text>
-Sorry, your browser does not support inline SVG.
-</svg>
-
+<h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
 <h3 align="center">A Passionate FullStack developer from India and Love of Life is Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-coder-debug&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-coder-debug" /> </p>
