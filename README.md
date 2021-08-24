@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
-<h2>I Didn't Now Anything But I Can Do or I Can  Handle All The Problem </h2>
+<h2>I Didn't Know  But I Can Do or I Can  Handle All The Problem </h2>
 <h3 align="center">A Passionate FullStack developer from India and Love of Life is Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-coder-debug&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-coder-debug" /> </p>
