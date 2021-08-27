@@ -10,13 +10,14 @@
 
 - 🔭 I’m currently working on **Blogging System**
 
-- 🌱 I’m currently learning **Laravel, Spring Boot**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjay-coder-debug](https://github.com/Sanjay-coder-debug)
 
 - 📝 I regularly write articles on [https://dev.to/sanjaycoderdebug](https://dev.to/sanjaycoderdebug)
 
-- 💬 Ask me about **Html,Css,Bootstrap,Javascript,Jquery**
+- 💬 Ask me about **Html,Css,Bootstrap,JQuery**
+- 💬 Ask me about **Php, Java**
 
 - 📫 How to reach me **sanjaykumardasprivate@gmail.com**
 
