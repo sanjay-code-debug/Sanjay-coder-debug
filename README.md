@@ -3,10 +3,10 @@
 
 <h1> Which Thing You Have Fear !! Just Work Immediatly On That Fear Like-- Some Task , Something, Some Doubt You Did Not Know </h1>
 
-            <pre>  Do It Now - May You Lose Your Dream and Work ! Self Satisfaction  -- 
+            Do It Now - May You Lose Your Dream and Work ! Self Satisfaction  -- 
                      
                      TRY AND TRY NEVER FEAR FOR LOSE
-             </pre>                         
+                                  
   
 
 <h3 align="center">A Passionate FullStack developer from India and Love of Life is Cyber Security</h3>
