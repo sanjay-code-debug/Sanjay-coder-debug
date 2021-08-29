@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
 <h2>Everything is Possible Just Try  and Try </h2>
 
-<h1> Which Thing You Have Fear !! Just Work Immediatly On That Fear Like-- Some Task , Something, Some Doubt You Did Not Now </h1>
+<h1> Which Thing You Have Fear !! Just Work Immediatly On That Fear Like-- Some Task , Something, Some Doubt You Did Not Know </h1>
 
             <pre>  Do It Now - May You Lose Your Dream and Work ! Self Satisfaction  -- 
                      
