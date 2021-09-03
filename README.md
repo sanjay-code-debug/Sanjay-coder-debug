@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
 <h2>Everything is Possible Just Try  and Try </h2>
 
-
+              - All Task Have Deadline and Why  I am  not  Getting ... Anyhow i need to From Myside..Any Way
                                   
   
 
