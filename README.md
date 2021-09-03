@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
-<h2>Everything is Possible Just Try  and Try  ... Have Some Own Strong Field No One Will Beat </h2>
+<h2>Everything is Possible Just Try  and Try  ...CONSISTENCY</h2>
 
-              - All Task Have Deadline and Why  I am  not  Getting ... Anyhow i need Complete What i Start It Will From Myside..Any Way..Untill Not Get ..
-                                                            Not got For Other Task --
+              - All Task Have Deadline !!
+                                            - Before Move Finish The Current One !! What You Learn !! 
                                   
   
 
