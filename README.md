@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
-<h2>Everything is Possible Just Try  and Try  ...CONSISTENCY</h2>
+
+  <h3> Do it Now Sometime Later Becomes Never </h3>
 
               - All Task Have Deadline !!
                                             - Before Move Finish The Current One !! What You Learn !! 
