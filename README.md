@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
 
-  <h3> Do it Now Sometime Later Becomes Never </h3>
+  <h3> Do it Now Sometime Later Becomes Never !! Only Failure is Never Trying </h3>
 
               - All Task Have Deadline !!
                                             - Before Move Finish The Current One !! What You Learn !! 
