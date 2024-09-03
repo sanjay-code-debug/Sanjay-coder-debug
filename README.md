@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋,💻 I'm Sanjay Kumar Das</h1>
-
-  <h3> Do it Now Sometime Later Becomes Never !! Only Failure is Never Trying </h3>
-
-              - All Task Have Deadline !!
-                                            - Before Move Finish The Current One !! What You Learn !! 
                                   
-  
-
-<h3 align="center">A Passionate FullStack developer from India and Love of Life is Cyber Security</h3>
+<h3 align="center">A Passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-coder-debug&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-coder-debug" /> </p>
 
