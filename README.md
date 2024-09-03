@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/@sanjayk07468653" target="blank"><img src="https://img.shields.io/twitter/follow/@sanjayk07468653?logo=twitter&style=for-the-badge" alt="@sanjayk07468653" /></a> </p>
 
-- 🔭 I’m currently working on **Blogging System**
+- 🔭 I’m currently working on ** Protfolio**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjay-coder-debug](https://github.com/Sanjay-coder-debug)
 
@@ -25,8 +25,9 @@
 
 - 💬 Ask me about **Html,Css,Bootstrap,JQuery**
 - 💬 Ask me about **Php, Java**
+- 💬 Ask me about **Magento**
 
-- 📫 How to reach me **sanjaykumardasprivate@gmail.com**
+- 📫 How to reach me **itz.sanjaykumardas@gmail.com**
 
 - ⚡ Fun fact **Internet Browse**
 
